@@ -23,7 +23,7 @@ import java.util.Map;
  * @author nicepeng
  * @since 2026/6/16 21:27
  */
-public class GroupAnagrams {
+public class LC_049_GroupAnagrams {
 
     public static void main(String[] args) {
         String [] strs = new String[]{"eat", "tea", "tan", "ate", "nat", "bat"};
